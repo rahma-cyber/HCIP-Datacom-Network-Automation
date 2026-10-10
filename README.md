@@ -1,14 +1,20 @@
 # HCIP-Datacom - Network Automation Developer
 
-## Laboratoire 2 : Python Programming Basics
+## Suivi des Laboratoires et Travaux Pratiques
 
-Ce dépôt contient l'ensemble des scripts de programmation et le compte rendu complet du **Laboratoire 2** issu du guide de formation officiel Huawei *HCIP-Datacom*.
+Ce dépôt contient l'ensemble des scripts de programmation, des configurations et les comptes rendus officiels des laboratoires issus du guide de formation Huawei *HCIP-Datacom*.
 
-### 📂 Structure du projet
-- 📁 **code/** : Regroupe tous les scripts Python (`.py`) développés pour les exercices (types de données, structures de contrôle, I/O, POO).
-- 📁 **images/** : Contient les captures d'écran des résultats d'exécution obtenus dans le terminal.
-- 📄 **Lab2_Python_Programming_Basics.md** : Le rapport technique de laboratoire complet, contenant les explications, les codes sources et l'analyse des résultats.
+### 📂 Structure du projet et Liste des Laboratoires
 
-### 🛠️ Environnement et Outils
+* 📁 **`Lab2_Python_Basics/`** : Fondamentaux de la programmation en Python 3.
+  - 📄 `Lab2_Python_Programming_Basics.md` : Rapport complet, codes sources et analyse des types, boucles et concepts POO.
+  - 📁 `images/` : Captures d'écran des résultats d'exécution.
+
+* 📁 **`Lab3_Git_Operations/`** : Gestion de version et opérations fondamentaux avec Git.
+  - 📄 `Lab3_Git_Operations.md` : Rapport complet sur l'initialisation de dépôts, la gestion des branches et la résolution de conflits via l'interface CLI.
+  - 📁 `images/` : Captures d'écran du terminal et du suivi des versions.
+
+### 🛠️ Environnement et Outils Globaux
 - **Environnement de développement** : Visual Studio Code (VS Code)
-- **Langage** : Python 3
+- **Outil de gestion de versions** : Git SCM
+- **Langage principal** : Python 3
